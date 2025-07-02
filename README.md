@@ -1,5 +1,5 @@
-# examples
-examples that i am using to practice
+# Examples
+Eexamples that i am using to practice
 
 
 # Hi there 👋
@@ -13,8 +13,8 @@ I'm David Buari — a passionate web developer and problem solver.
 
 ## 🌱 Currently Learning
 - TypeScript
-- Tailwind CSS
+- Tailwind CSS & BootStrap
 
 ## 📫 How to reach me
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://linkedin.com/in/DavidBuari)
+- [Twitter](https://twitter.com/PointBlvnck)
